@@ -1,0 +1,32 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10%;
+}
+#search{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#first{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+   
+}
+#right{
+    float:right;
+}
+#left{
+    float:left;
+}
+nav{
+    overflow: hidden;
+  
+}
+li {
+    display: inline;
+    font-size: 12px;
+        }
